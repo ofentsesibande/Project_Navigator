@@ -1,0 +1,11 @@
+$ history | tail
+  313  git clone https://github.com/ofentsesibande/Project-Navigator.git
+  314  cd desktop
+  315  git clone
+  316  git clone https://github.com/ofentsesibande/Project_Navigator.git
+  317  cd Project_Navigator
+  318  ls
+  319  nano setup.sh
+  320  ./setup.sh
+  321  history
+  322  history | tail
